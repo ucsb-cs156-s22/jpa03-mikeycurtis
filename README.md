@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-mikeycurtis/branch/master/graph/badge.svg?token=V5bK6fdUDf)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-mikeycurtis)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-mikeycurtis-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
